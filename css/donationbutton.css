@@ -1,0 +1,28 @@
+/* .topio{
+    text-align: center;
+    display: inline-block;
+} */
+
+div.form
+{
+    display: block;
+    text-align: center;
+    height: 100px;
+}
+/* form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+} */
+
+
+
+
+
+
+  .sqs-donate {
+    font-size: 1000px !important;
+    
+  }
